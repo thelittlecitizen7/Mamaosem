@@ -9,7 +9,6 @@ namespace MamaosemSystem.Stations
 {
     public interface IStationPreformer
     {
-        int NumberStation { get; set; }
-        void PreformStep(HouseCake houseCake);
+        void PreformStep(int numberStation,HouseCake houseCake);
     }
 }
