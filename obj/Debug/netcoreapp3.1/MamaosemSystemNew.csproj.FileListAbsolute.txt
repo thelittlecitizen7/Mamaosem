@@ -1,0 +1,15 @@
+C:\Users\thelittlecitizen7\source\repos\MamaosemSystemNew\MamaosemSystemNew\bin\Debug\netcoreapp3.1\MamaosemSystemNew.exe
+C:\Users\thelittlecitizen7\source\repos\MamaosemSystemNew\MamaosemSystemNew\bin\Debug\netcoreapp3.1\MamaosemSystemNew.deps.json
+C:\Users\thelittlecitizen7\source\repos\MamaosemSystemNew\MamaosemSystemNew\bin\Debug\netcoreapp3.1\MamaosemSystemNew.runtimeconfig.json
+C:\Users\thelittlecitizen7\source\repos\MamaosemSystemNew\MamaosemSystemNew\bin\Debug\netcoreapp3.1\MamaosemSystemNew.runtimeconfig.dev.json
+C:\Users\thelittlecitizen7\source\repos\MamaosemSystemNew\MamaosemSystemNew\bin\Debug\netcoreapp3.1\MamaosemSystemNew.dll
+C:\Users\thelittlecitizen7\source\repos\MamaosemSystemNew\MamaosemSystemNew\bin\Debug\netcoreapp3.1\MamaosemSystemNew.pdb
+C:\Users\thelittlecitizen7\source\repos\MamaosemSystemNew\MamaosemSystemNew\bin\Debug\netcoreapp3.1\Mamaosem.Utils.dll
+C:\Users\thelittlecitizen7\source\repos\MamaosemSystemNew\MamaosemSystemNew\obj\Debug\netcoreapp3.1\MamaosemSystemNew.csprojAssemblyReference.cache
+C:\Users\thelittlecitizen7\source\repos\MamaosemSystemNew\MamaosemSystemNew\obj\Debug\netcoreapp3.1\MamaosemSystemNew.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen7\source\repos\MamaosemSystemNew\MamaosemSystemNew\obj\Debug\netcoreapp3.1\MamaosemSystemNew.AssemblyInfo.cs
+C:\Users\thelittlecitizen7\source\repos\MamaosemSystemNew\MamaosemSystemNew\obj\Debug\netcoreapp3.1\MamaosemSystemNew.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen7\source\repos\MamaosemSystemNew\MamaosemSystemNew\obj\Debug\netcoreapp3.1\MamaosemSystemNew.csproj.CopyComplete
+C:\Users\thelittlecitizen7\source\repos\MamaosemSystemNew\MamaosemSystemNew\obj\Debug\netcoreapp3.1\MamaosemSystemNew.dll
+C:\Users\thelittlecitizen7\source\repos\MamaosemSystemNew\MamaosemSystemNew\obj\Debug\netcoreapp3.1\MamaosemSystemNew.pdb
+C:\Users\thelittlecitizen7\source\repos\MamaosemSystemNew\MamaosemSystemNew\obj\Debug\netcoreapp3.1\MamaosemSystemNew.genruntimeconfig.cache
